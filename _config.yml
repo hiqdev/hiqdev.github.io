@@ -2,7 +2,7 @@
 title:              HiQDev
 tagline:            We're developing HiPanel and HiDev
 email:              team@hiqdev.com
-description:        We're developing <a href="http://hipanel.com/">HiPanel</a> and HiDev
+description:        We're developing <a href="http://hipanel.com/">HiPanel</a> and <a href="https://github.com/hiqdev/hidev">HiDev</a>
 baseurl:            /
 url:                http://hiqdev.com
 twitter_username:   hiqsol
