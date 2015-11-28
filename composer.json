@@ -1,0 +1,49 @@
+{
+    "name": "hiqdev/hiqdev.github.io",
+    "type": "project",
+    "description": "HiQDev site",
+    "keywords": [
+        "hiqdev",
+        "development"
+    ],
+    "homepage": "https://github.com/hiqdev/hiqdev.github.io",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "support@hiqdev.com",
+        "source": "https://github.com/hiqdev/hiqdev.github.io",
+        "issues": "https://github.com/hiqdev/hiqdev.github.io/issues",
+        "wiki": "https://github.com/hiqdev/hiqdev.github.io/wiki",
+        "forum": "http://forum.hiqdev.com/"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "role": "Project lead",
+            "email": "sol@hiqdev.com",
+            "homepage": "http://hipanel.com/"
+        },
+        {
+            "name": "Dmitry Naumenko",
+            "role": "Lead backend developer",
+            "email": "silverfire@hiqdev.com",
+            "homepage": "http://silverfire.me/"
+        },
+        {
+            "name": "Andrey Klochok",
+            "role": "Lead frontend developer",
+            "email": "tafid@hiqdev.com",
+            "homepage": "http://hiqdev.com/"
+        },
+        {
+            "name": "Yuriy Myronchuk",
+            "role": "QA Lead",
+            "email": "bladeroot@hiqdev.com",
+            "homepage": "http://hiqdev.com/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "hiqdev\\hiqdevgithubio\\": "src"
+        }
+    }
+}

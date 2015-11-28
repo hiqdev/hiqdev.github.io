@@ -1,0 +1,9 @@
+package:
+    type:           project
+    name:           hiqdev.github.io
+    headline:       HiQDev
+    title:          HiQDev site
+    keywords:       hiqdev, development
+
+require:
+    hiqdev/hidev-hiqdev: "*"
