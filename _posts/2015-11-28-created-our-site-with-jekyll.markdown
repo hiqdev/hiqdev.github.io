@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  Created our site with Jekyll
-date:   2015-11-28 22:07:37
+layout:     post
+title:      Created our site with Dr. Jekyll and Mr. Hyde
+date:       2015-11-28 22:07:37
 categories: jekyll update
 ---
-Here are some Jekyll basics.
+Strange case of Dr. [Jekyll]({% post_url 2012-02-06-whats-jekyll %}) and Mr. [Hyde]({% post_url 2013-12-28-introducing-hyde %}).
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

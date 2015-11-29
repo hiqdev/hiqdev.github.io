@@ -14,8 +14,12 @@ markdown:           redcarpet
 permalink:          pretty
 relative_permalinks: true
 
-author:
-  name:           Andrii Vasyliev
-  url:            http://solex.me/
+collections:
+    projects:
+        output:     true
 
-paginate:         5
+author:
+    name:           Andrii Vasyliev
+    url:            http://solex.me/
+
+paginate:           5
