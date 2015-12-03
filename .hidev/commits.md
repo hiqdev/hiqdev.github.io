@@ -3,6 +3,11 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+- Added payment-icons
+    - 6f3c8b6 2015-12-04 + payment-icons and better projects description (sol@hiqdev.com)
+    - aa3c2ce 2015-12-04 changed css for IMG for readme badges (sol@hiqdev.com)
+    - a8a9616 2015-11-29 returned CHAME back (sol@hiqdev.com)
+    - 62bc065 2015-11-29 added changelog page (sol@hiqdev.com)
 - Added CNAME for hiqdev.com
     - 82f4a3c 2015-11-29 set CNAME to hiqdev.com (sol@hiqdev.com)
     - c3df81f 2015-11-29 + CNAME for solex.me (sol@hiqdev.com)

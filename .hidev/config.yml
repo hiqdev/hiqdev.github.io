@@ -5,5 +5,8 @@ package:
     title:          HiQDev site
     keywords:       hiqdev, development
 
+vendor:
+    name: hiqdev
+
 require:
     hiqdev/hidev-hiqdev: "*"
