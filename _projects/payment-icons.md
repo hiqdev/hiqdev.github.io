@@ -1,13 +1,13 @@
 ---
 layout:         project
-date:           2015-04-28 00:00
-name:           hidev
-title:          HiDev
-lang:           PHP
-description:    Task runner, code generator and build tool for easier continuos integration
-site:           https://hiqdev.github.io/hidev
-version:        0.1.6
-packages_num:   15
+date:           2015-08-14 00:00
+title:          Payment Icons
+name:           payment-icons
+lang:           CSS
+version:        0.0.2
+description:    Set of icons for payment systems and methods
+site:           https://hiqdev.com/payment-icons
+packages_num:   1
 ---
 
 composer, git, github, packagist
