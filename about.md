@@ -10,7 +10,7 @@ title: About
   And the mome raths outgrabe.
 </p>
 
-We're doing [HiPanel](/hipanel), [HiDev](/hidev) and other [cool projects](https://adfs.com/projects/) and [packages](/packages).
+We're doing [HiPanel](/hipanel), [HiDev](/hidev) and other [cool projects](/projects) and [packages](/packages).
 
 ## Our amazing team
 
