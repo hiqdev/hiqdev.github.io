@@ -3,6 +3,8 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+- Added logo and moved sidebar to top
+    - 4c2b6f8 2015-12-04 + logo and moved sidebar to top (sol@hiqdev.com)
 - Added payment-icons
     - 6f3c8b6 2015-12-04 + payment-icons and better projects description (sol@hiqdev.com)
     - aa3c2ce 2015-12-04 changed css for IMG for readme badges (sol@hiqdev.com)
