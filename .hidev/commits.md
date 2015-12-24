@@ -3,6 +3,9 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+- Added `hidev.phar`
+    - 043df6d 2015-12-24 fixed: rehideved (sol@hiqdev.com)
+    - 92496be 2015-12-24 added new hidev.phar (sol@hiqdev.com)
     - 4a1ac83 2015-12-14 + hidev.phar (sol@hiqdev.com)
 - Added logo and moved sidebar to top
     - 4c2b6f8 2015-12-04 + logo and moved sidebar to top (sol@hiqdev.com)
