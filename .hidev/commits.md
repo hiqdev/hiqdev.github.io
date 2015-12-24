@@ -3,6 +3,7 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+    - 4a1ac83 2015-12-14 + hidev.phar (sol@hiqdev.com)
 - Added logo and moved sidebar to top
     - 4c2b6f8 2015-12-04 + logo and moved sidebar to top (sol@hiqdev.com)
 - Added payment-icons

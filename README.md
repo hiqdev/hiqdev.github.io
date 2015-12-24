@@ -3,9 +3,11 @@ HiQDev
 
 **HiQDev site**
 
-[![Latest Stable Version](https://poser.pugx.org/hiqdev/hiqdev.github.io/v/stable)](//packagist.org/packages/hiqdev/hiqdev.github.io)
-[![Total Downloads](https://poser.pugx.org/hiqdev/hiqdev.github.io/downloads)](//packagist.org/packages/hiqdev/hiqdev.github.io)
-[![Build Status](https://img.shields.io/travis/hiqdev/hiqdev.github.io.svg)](http://travis-ci.org/hiqdev/hiqdev.github.io)
+[![Latest Stable Version](https://poser.pugx.org/hiqdev/hiqdev.github.io/v/stable)](https://packagist.org/packages/hiqdev/hiqdev.github.io)
+[![Total Downloads](https://poser.pugx.org/hiqdev/hiqdev.github.io/downloads)](https://packagist.org/packages/hiqdev/hiqdev.github.io)
+[![Build Status](https://img.shields.io/travis/hiqdev/hiqdev.github.io.svg)](https://travis-ci.org/hiqdev/hiqdev.github.io)
+[![Code Coverage](https://scrutinizer-ci.com/g/hiqdev/hiqdev.github.io/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/hiqdev.github.io/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hiqdev/hiqdev.github.io/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hiqdev/hiqdev.github.io/?branch=master)
 
 ## Installation
 
