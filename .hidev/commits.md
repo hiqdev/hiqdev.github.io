@@ -3,6 +3,9 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+    - 8c1856d 2016-01-16 updated `hidev.phar` to 0.3.2 (sol@hiqdev.com)
+    - b21ed97 2016-01-13 + yandex metrika (sol@hiqdev.com)
+    - 64ddaf6 2016-01-13 + yandex auth file (sol@hiqdev.com)
 - Added `hidev.phar`
     - 043df6d 2015-12-24 fixed: rehideved (sol@hiqdev.com)
     - 92496be 2015-12-24 added new hidev.phar (sol@hiqdev.com)

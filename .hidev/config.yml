@@ -4,6 +4,7 @@ package:
     headline:       HiQDev
     title:          HiQDev site
     keywords:       hiqdev, development
+    year:           2015
 
 require:
     hiqdev/hidev-vendor: "*"
