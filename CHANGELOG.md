@@ -3,6 +3,7 @@ hiqdev/hiqdev.github.io changelog
 
 ## Under development
 
+- Changed `hidev.phar` to 0.3.5
 - Changed `hidev.phar` to 0.3.3
 - Added `hidev.phar` 0.3.2
 - Added Yandex.Metrika
