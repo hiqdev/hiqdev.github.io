@@ -3,7 +3,10 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+- Added `hidev.phar` 0.3.2
+    - 0cd8bd7 2016-01-16 rehideved (sol@hiqdev.com)
     - 8c1856d 2016-01-16 updated `hidev.phar` to 0.3.2 (sol@hiqdev.com)
+- Added Yandex.Metrika
     - b21ed97 2016-01-13 + yandex metrika (sol@hiqdev.com)
     - 64ddaf6 2016-01-13 + yandex auth file (sol@hiqdev.com)
 - Added `hidev.phar`
