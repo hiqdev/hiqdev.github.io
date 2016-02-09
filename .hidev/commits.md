@@ -4,6 +4,7 @@ hiqdev/hiqdev.github.io commits history
 ## Under development
 
 - Changed `hidev.phar` to 0.3.9
+    - fc7614b 2016-02-09 bumped `hidev.phar` to 0.3.9 (sol@hiqdev.com)
     - e0f49b6 2016-01-26 bumped `hidev.phar` to 0.3.9 (sol@hiqdev.com)
     - e2b095e 2016-01-17 rebumped (sol@hiqdev.com)
     - 48894fa 2016-01-17 bumped `hidev.phar` to 0.3.6 (sol@hiqdev.com)
