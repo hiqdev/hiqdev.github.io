@@ -1,11 +1,10 @@
 package:
     type:           project
     name:           hiqdev.github.io
-    headline:       HiQDev
-    title:          HiQDev site
+    title:          HiQDev.com site
+    headline:       HiQDev.com
     keywords:       hiqdev, development
-    year:           2015
 
 require:
-    hiqdev/hidev-vendor: "*"
     hiqdev/hidev-php:    "*"
+    hiqdev/hidev-vendor: "*"
