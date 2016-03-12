@@ -3,8 +3,16 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+- Fixed many issues
+    - 1c8398f 2016-03-12 shortened builtin posts (sol@hiqdev.com)
+    - 8b04433 2016-03-12 updated payment-icons project description (sol@hiqdev.com)
+    - aa68ceb 2016-03-12 updated hidev/index (sol@hiqdev.com)
+- Changed: renamed rEPPy to hEPPy
+    - bba54c8 2016-03-12 simplified project files - meta data only (sol@hiqdev.com)
+    - 05444b5 2016-03-12 renamed reppy to heppy (sol@hiqdev.com)
     - a70c291 2016-03-12 rehideved (sol@hiqdev.com)
 - Changed `hidev.phar` to 0.3.9
+    - df94b34 2016-03-12 update hidev index (sol@hiqdev.com)
     - fc7614b 2016-02-09 bumped `hidev.phar` to 0.3.9 (sol@hiqdev.com)
     - e0f49b6 2016-01-26 bumped `hidev.phar` to 0.3.9 (sol@hiqdev.com)
     - e2b095e 2016-01-17 rebumped (sol@hiqdev.com)
