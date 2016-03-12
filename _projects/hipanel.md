@@ -5,6 +5,7 @@ name:           hipanel
 title:          HiPanel
 lang:           PHP
 version:        0.0.1
-description:    Next Generation Control Panel
+description:    Next generation control panel for hosting, domains and more
+package:        hipanel-core
 packages_num:   20
 ---
