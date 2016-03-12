@@ -2,12 +2,13 @@
 title:              HiQDev
 tagline:            We're developing HiPanel and HiDev
 email:              team@hiqdev.com
-description:        We're developing <a href="http://hipanel.com/">HiPanel</a> and <a href="https://github.com/hiqdev/hidev">HiDev</a>
+description:        We're developing <a href="/hipanel">HiPanel</a> and <a href="/hidev">HiDev</a>
 baseurl:            /
 url:                http://hiqdev.com
 twitter_username:   hiqsol
 github_username:    hiqdev
 higlighter:         pygments
+gems:               [jekyll-paginate, jekyll-gist]
 
 markdown:           redcarpet
 kramdown:
@@ -15,7 +16,7 @@ kramdown:
 
 # Permalinks
 permalink:          pretty
-relative_permalinks: true
+#relative_permalinks: true
 
 collections:
     projects:
