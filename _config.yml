@@ -7,16 +7,8 @@ baseurl:            /
 url:                http://hiqdev.com
 twitter_username:   hiqsol
 github_username:    hiqdev
-higlighter:         pygments
-gems:               [jekyll-paginate, jekyll-gist]
-
-markdown:           redcarpet
-kramdown:
-    input: GFM
-
-# Permalinks
 permalink:          pretty
-#relative_permalinks: true
+gems:               [jekyll-paginate, jekyll-gist]
 
 collections:
     projects:
