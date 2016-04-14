@@ -3,6 +3,7 @@ hiqdev/hiqdev.github.io changelog
 
 ## Under development
 
+- Fixed build
 - Added fresh `hidev.phar`
 - Fixed jekyll and github pages issues
 - Improved pages for heppy, hipanel and payment-icons

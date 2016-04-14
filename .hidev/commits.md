@@ -3,6 +3,8 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
+- Fixed build
+    - 07c6f1b 2016-04-14 inited empty tests (sol@hiqdev.com)
 - Added fresh `hidev.phar`
     - 703bbea 2016-04-14 added fresh hidev.phar (sol@hiqdev.com)
     - e6c0582 2016-04-13 updated `hidev.phar` (sol@hiqdev.com)
