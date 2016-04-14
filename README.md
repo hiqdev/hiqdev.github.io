@@ -1,8 +1,6 @@
 HiQDev.com
 ==========
 
-**HiQDev.com site**
-
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hiqdev.github.io/v/stable)](https://packagist.org/packages/hiqdev/hiqdev.github.io)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hiqdev.github.io/downloads)](https://packagist.org/packages/hiqdev/hiqdev.github.io)
 [![Build Status](https://img.shields.io/travis/hiqdev/hiqdev.github.io.svg)](https://travis-ci.org/hiqdev/hiqdev.github.io)

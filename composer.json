@@ -1,12 +1,12 @@
 {
     "name": "hiqdev/hiqdev.github.io",
     "type": "project",
-    "description": "HiQDev.com site",
+    "description": "HiQDev.com",
     "keywords": [
         "hiqdev",
         "development"
     ],
-    "homepage": "https://github.com/hiqdev/hiqdev.github.io",
+    "homepage": "http://hiqdev.github.io/",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",

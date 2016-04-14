@@ -1,8 +1,7 @@
 package:
     type:           project
     name:           hiqdev.github.io
-    title:          HiQDev.com site
-    headline:       HiQDev.com
+    title:          HiQDev.com
     keywords:       hiqdev, development
 
 require:

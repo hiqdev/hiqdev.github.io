@@ -3,15 +3,9 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
-- Fixed many issues
-    - 1c8398f 2016-03-12 shortened builtin posts (sol@hiqdev.com)
-    - 8b04433 2016-03-12 updated payment-icons project description (sol@hiqdev.com)
-    - aa68ceb 2016-03-12 updated hidev/index (sol@hiqdev.com)
-- Changed: renamed rEPPy to hEPPy
-    - bba54c8 2016-03-12 simplified project files - meta data only (sol@hiqdev.com)
-    - 05444b5 2016-03-12 renamed reppy to heppy (sol@hiqdev.com)
-    - a70c291 2016-03-12 rehideved (sol@hiqdev.com)
-- Changed `hidev.phar` to 0.3.9
+- Added fresh `hidev.phar`
+    - 703bbea 2016-04-14 added fresh hidev.phar (sol@hiqdev.com)
+    - e6c0582 2016-04-13 updated `hidev.phar` (sol@hiqdev.com)
     - df94b34 2016-03-12 update hidev index (sol@hiqdev.com)
     - fc7614b 2016-02-09 bumped `hidev.phar` to 0.3.9 (sol@hiqdev.com)
     - e0f49b6 2016-01-26 bumped `hidev.phar` to 0.3.9 (sol@hiqdev.com)
@@ -21,6 +15,19 @@ hiqdev/hiqdev.github.io commits history
     - fff14f6 2016-01-16 updated `hidev.phar` to 0.3.3 (sol@hiqdev.com)
     - 0cd8bd7 2016-01-16 rehideved (sol@hiqdev.com)
     - 8c1856d 2016-01-16 updated `hidev.phar` to 0.3.2 (sol@hiqdev.com)
+- Fixed jekyll and github pages issues
+    - 283c7b5 2016-03-13 fixing for github pages (sol@hiqdev.com)
+    - 72611a7 2016-03-12 fixed jekyll config for version 3.0.0 (sol@hiqdev.com)
+    - 1c8398f 2016-03-12 shortened builtin posts (sol@hiqdev.com)
+    - aa68ceb 2016-03-12 updated hidev/index (sol@hiqdev.com)
+- Improved pages for heppy, hipanel and payment-icons
+    - 8b04433 2016-03-12 updated payment-icons project description (sol@hiqdev.com)
+    - d39aa00 2016-03-12 improved heppy article (sol@hiqdev.com)
+    - 1455c6d 2016-03-12 fixed hipanel description (sol@hiqdev.com)
+- Changed: renamed rEPPy to hEPPy
+    - bba54c8 2016-03-12 simplified project files - meta data only (sol@hiqdev.com)
+    - 05444b5 2016-03-12 renamed reppy to heppy (sol@hiqdev.com)
+    - a70c291 2016-03-12 rehideved (sol@hiqdev.com)
 - Added Yandex.Metrika
     - b21ed97 2016-01-13 + yandex metrika (sol@hiqdev.com)
     - 64ddaf6 2016-01-13 + yandex auth file (sol@hiqdev.com)

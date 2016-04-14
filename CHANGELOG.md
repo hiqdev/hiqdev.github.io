@@ -3,9 +3,10 @@ hiqdev/hiqdev.github.io changelog
 
 ## Under development
 
-- Fixed many issues
+- Added fresh `hidev.phar`
+- Fixed jekyll and github pages issues
+- Improved pages for heppy, hipanel and payment-icons
 - Changed: renamed rEPPy to hEPPy
-- Changed `hidev.phar` to 0.3.9
 - Added Yandex.Metrika
 - Added `hidev.phar`
 - Added logo and moved sidebar to top
