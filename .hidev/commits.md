@@ -3,9 +3,8 @@ hiqdev/hiqdev.github.io commits history
 
 ## Under development
 
-- Fixed build
-    - 07c6f1b 2016-04-14 inited empty tests (sol@hiqdev.com)
 - Added fresh `hidev.phar`
+    - 51f4cea 2016-04-26 updated `hidev.phar` (sol@hiqdev.com)
     - 703bbea 2016-04-14 added fresh hidev.phar (sol@hiqdev.com)
     - e6c0582 2016-04-13 updated `hidev.phar` (sol@hiqdev.com)
     - df94b34 2016-03-12 update hidev index (sol@hiqdev.com)
@@ -17,6 +16,8 @@ hiqdev/hiqdev.github.io commits history
     - fff14f6 2016-01-16 updated `hidev.phar` to 0.3.3 (sol@hiqdev.com)
     - 0cd8bd7 2016-01-16 rehideved (sol@hiqdev.com)
     - 8c1856d 2016-01-16 updated `hidev.phar` to 0.3.2 (sol@hiqdev.com)
+- Fixed build
+    - 07c6f1b 2016-04-14 inited empty tests (sol@hiqdev.com)
 - Fixed jekyll and github pages issues
     - 283c7b5 2016-03-13 fixing for github pages (sol@hiqdev.com)
     - 72611a7 2016-03-12 fixed jekyll config for version 3.0.0 (sol@hiqdev.com)

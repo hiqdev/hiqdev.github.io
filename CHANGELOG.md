@@ -3,8 +3,8 @@ hiqdev/hiqdev.github.io changelog
 
 ## Under development
 
-- Fixed build
 - Added fresh `hidev.phar`
+- Fixed build
 - Fixed jekyll and github pages issues
 - Improved pages for heppy, hipanel and payment-icons
 - Changed: renamed rEPPy to hEPPy
