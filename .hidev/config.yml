@@ -4,6 +4,6 @@ package:
     title:          HiQDev.com
     keywords:       hiqdev, development
 
-require:
+plugins:
     hiqdev/hidev-php:    "*"
     hiqdev/hidev-vendor: "*"
