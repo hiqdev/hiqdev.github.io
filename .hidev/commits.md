@@ -4,6 +4,8 @@ hiqdev/hiqdev.github.io commits history
 ## Under development
 
 - Added fresh `hidev.phar`
+    - 28bab3e 2016-05-11 updated `hidev.phar` (sol@hiqdev.com)
+    - 837d739 2016-04-27 updated hidev.phar (sol@hiqdev.com)
     - cb6c5bf 2016-04-27 renamed require -> plugins in `.hidev/config.yml` (sol@hiqdev.com)
     - 019fb3d 2016-04-27 updated `hidev.phar` (sol@hiqdev.com)
     - 51f4cea 2016-04-26 updated `hidev.phar` (sol@hiqdev.com)
