@@ -8,7 +8,7 @@ date: 2016-05-31 18:00
 
 **Composer + Bower + NPM = friends forever!**
 
-https://asset-packagist.org/
+[https://asset-packagist.org/](https://asset-packagist.org/)
 
-https://github.com/hiqdev/asset-packagist
+[https://github.com/hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist)
 
