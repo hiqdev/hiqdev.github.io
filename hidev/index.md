@@ -1,6 +1,3 @@
----
-layout: project
----
 HiDev
 =====
 
@@ -15,12 +12,14 @@ HiDev
 
 Features:
 
-- package management: Composer, Packagist
-- release automation: README, LICENSE, CHANGELOG
-- code generation with php and twig templates
+- package management: [Composer](https://getcomposer.org/), [Packagist](https://packagist.org/)
+- release automation: README, LICENSE, CHANGELOG, version bump
+- CI services: [Travis](https://travis-ci.org/), [Scrutinizer](https://scrutinizer-ci.com/)
+- testing: [PHPUnit](https://phpunit.de/), [Codeception](http://codeception.com/)
+- code quality: [PHP-CS-Fixer](http://cs.sensiolabs.org/), [VersionEye](https://www.versioneye.com/)
 - version control: .gitignore, commits history
-- code quality: PHP-CS-Fixer, VersionEye
-- testing: PHPUnit, Codeception
+- PHAR building with [Box](https://github.com/box-project/box2)
+- code generation with php and twig templates
 
 And more planned. See [ROADMAP](ROADMAP.md).
 
@@ -98,7 +97,7 @@ vendor:
             name:       Andrii Vasyliev
             email:      sol@hiqdev.com
 
-require:
+plugins:
     hiqdev/hidev-php: "*"
 ```
 
@@ -125,8 +124,8 @@ Best way of configuring vendor is to create and use your vendor plugin for HiDev
 It's easy, just copy `hiqdev/hidev-vendor`, change it appropriately and publish
 to Packagist.
 
-Require section lists the plugins mentioning versions to be used for your package.
-Versions will be used with composer so must follow it's rules.
+Plugins section lists the plugins mentioning versions to be used for your package.
+Version constraints will be used with composer so must follow it's rules.
 
 Good example of configuration is HiDev's own [.hidev/config.yml](.hidev/config.yml).
 
